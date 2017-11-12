@@ -4,6 +4,7 @@
 	title 		""
 	title2		""
 	supportsvr	1
+	hasportals	1
 
 	type		multiplayer_only
 
